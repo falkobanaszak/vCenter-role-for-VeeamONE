@@ -27,4 +27,5 @@ Successful tested against:
 - VMware vCenter 6.5
 - VMware vCenter 6.7
 - VMware vCenter 7.0
+- Veeam ONE V10
 - Veeam ONE V11
