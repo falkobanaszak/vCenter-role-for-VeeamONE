@@ -11,6 +11,9 @@ Simply execute the script and follow the steps to fill in the relevant data like
 
 Feel free to give me feedback on this script, as I want to further improve it.
 
+After you have created the role you need to assign a user to it and continue within VeeamONE where you add your vCenter Server.
+![Connecting vCenter Server](https://github.com/falkobanaszak/vCenter-role-for-VeeamONE/blob/main/connecting_vsphere_host_address.png)
+
 **Already planned improvements**
  - [ ] Add a function to assign a user to the role
  - [ ] Add a function to check against an existing role, print the missing privileges and let the user decide to apply the missing privileges to the already existing role
