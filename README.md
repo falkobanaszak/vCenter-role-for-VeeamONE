@@ -12,7 +12,10 @@ Simply execute the script and follow the steps to fill in the relevant data like
 Feel free to give me feedback on this script, as I want to further improve it.
 
 After you have created the role you need to assign a user to it and continue within VeeamONE where you add your vCenter Server.
+
 ![Connecting vCenter Server](https://github.com/falkobanaszak/vCenter-role-for-VeeamONE/blob/main/connecting_vsphere_host_address.png)
+
+The process itself is described here: [Connecting VMware vSphere Servers](https://helpcenter.veeam.com/docs/one/deployment/vsphere_server_connect.html?ver=110)
 
 **Already planned improvements**
  - [ ] Add a function to assign a user to the role
